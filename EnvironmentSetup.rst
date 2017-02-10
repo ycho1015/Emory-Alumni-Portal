@@ -3,7 +3,7 @@
 
 필요 설치 항목 
 ------------
-* `Ubuntu 16.10` 
+* `_Ubuntu 16.04 LTS <https://www.ubuntu.com/download/desktop>`__ 
     * 맥 사용자는 설치 필요 없음.
     * 윈도우 사용자는 VM을 이용한 설치보다는 듀얼 부팅을 권장함. 
 * `PIP`
@@ -67,10 +67,10 @@ Pyenv Installation `추가정보 <https://github.com/yyuu/pyenv-installer>`__
 
       vim ~/.bash_profile
       
-  shell 파일 최 하단에, 아래 적혀있는 코드 3줄을 입력 후 저장 밎 종료
-     1. shell 파일로 terminal 창이 이동되면, ``i`` 키 입력
+  shell 파일 최하단에, 아래 적혀있는 코드 3줄을 입력 후 저장 밎 종료
+     1. terminal 창이 shell 파일로 이동하면, ``i`` 키 입력
      2. 아래 적혀있는 코드 3줄을 복사 후, 붙혀넣기
-     3. ``esc`` + ``:`` + ``w`` + ``q``키를 순서대로 입력하면 저장 및 종료  
+     3. ``esc`` + ``:`` + ``w`` + ``q`` 키를 순서대로 입력하면 저장 및 종료  
 
   .. code:: bash
 
@@ -97,9 +97,9 @@ Pyenv Installation `추가정보 <https://github.com/yyuu/pyenv-installer>`__
       vim ~/.bashrc
 
   shell 파일 최하단에 아래 적혀있는 코드 3줄을 입력 후 저장 밎 종료
-     1. shell 파일로 terminal 창이 이동되면, ``i`` 키 입력
+     1. terminal 창이 shell 파일로 이동하면, ``i`` 키 입력
      2. 아래 적혀있는 코드 3줄을 복사 후, 붙혀넣기
-     3. ``esc`` + ``:`` + ``w`` + ``q``키를 순서대로 입력하면 저장 및 종료  
+     3. ``esc`` + ``:`` + ``w`` + ``q`` 키를 순서대로 입력하면 저장 및 종료  
   
 
   .. code:: bash
