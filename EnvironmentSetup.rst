@@ -3,7 +3,7 @@
 
 필요 설치 항목 
 ------------
-* `_Ubuntu 16.04 LTS <https://www.ubuntu.com/download/desktop>`__ 
+* `Ubuntu 16.04 LTS <https://www.ubuntu.com/download/desktop>`__ 
     * 맥 사용자는 설치 필요 없음.
     * 윈도우 사용자는 VM을 이용한 설치보다는 듀얼 부팅을 권장함. 
 * `PIP`
